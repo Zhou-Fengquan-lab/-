@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-publications
+Publications
 ======
-部分发表文章
 
 
 
