@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "周峰泉个人介绍"
+title: "周峰泉教授个人介绍"
 author_profile: true
 redirect_from: 
   - /about/
